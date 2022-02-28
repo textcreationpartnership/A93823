@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The State of the city of London, and their humble desires upon the bill for restoring their charters and liberties</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93823</idno>
+            <idno type="STC">Wing S5316B</idno>
+            <idno type="STC">ESTC R42892</idno>
+            <idno type="EEBO-CITATION">38875909</idno>
+            <idno type="OCLC">ocm 38875909</idno>
+            <idno type="VID">152408</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93823)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152408)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2296:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The State of the city of London, and their humble desires upon the bill for restoring their charters and liberties</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>"Published May 24 1690." -- ms. note on p. 4.</note>
+                  <note>Reproduction of original in: Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  17th century.</term>
+               <term>London (England) --  Charters, grants, privileges --  Early works to 1800.</term>
+               <term>Corporation of London (England)</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:152408:1"/>
+            <pb n="1" facs="tcp:152408:1"/>
+            <head>THE STATE OF THE City of London, And their Humble Deſires upon the Bill for Re<g ref="char:EOLhyphen"/>ſtoring their CHARTERS and LIBERTIES.</head>
+            <head type="sub">As the ſame were Offered to many of the LORDS in Parliament, by divers Citizens, whilſt their Petition was depending to be heard.</head>
+            <p>TO prepare the Lords to hear what Council ſhould offer upon the Cities Petition, it was firſt prayed, That the Judgment againſt the City and its Liberties might be well weighed; the Subſtance thereof was,</p>
+            <p>
+               <hi>That the Liberties claimed for the Citizens of</hi> London, <hi>to be of Themſelves a Body-Corporate and Politick, by the Name of</hi> Mayor, Commonalty, and Citizens of the City of Lon<g ref="char:EOLhyphen"/>don, <hi>ſhould be Taken and Seized into the Hands of the King; And that the Citizens ſhould be taken Priſoners, to ſatisfie the King for his Fine, for Vſurping the ſaid Liberty and Priviledge.</hi>
+            </p>
+            <p>The purport of the Bill is to Reverſe this Judgment, as Illegal and Arbitrary, and to make it Null and Void, to be hereafter of no Effect: But ſhews not <hi>wherein</hi> it was Illegal or Arbitrary, either in <hi>Matter</hi> or <hi>Form,</hi> whereby the City might be ſecured againſt the like Illegal Judgments.</p>
+            <p>The Bill alſo declares, in effect, That Illegal Judgment to have been of ſuch legal force and efficacy, that by vertue thereof, the Bo<g ref="char:EOLhyphen"/>dy Politick of the City was utterly diſſolved and deſtroyed, and all their Liberties, Lands, Goods, Debts and Intereſts, as a Corporation (even thoſe belonging to their Wives and Children) forfeited to the King.</p>
+            <p>'Tis herein imply'd, That the City to this hour is no Corpora<g ref="char:EOLhyphen"/>tion. And all that exerciſe the Powers of Mayors, Sheriffs, or Com<g ref="char:EOLhyphen"/>mon-Councils,
+<pb n="2" facs="tcp:152408:2"/>or any other City Office, are in effect declared to be Uſurpers and Wrong-doers, having no Lawful Authority. And 'tis alſo in effect affirmed, That the City hath no right nor claim to Liberties, Lands, Goods, Debts, or any other Intereſt, unleſs the Late King's Truſtees and Confidents, to whom he granted them for that year, pleaſe to ſhew the Effects of His Grace to the Citizens; or the Chancery ſhall compel them to it.</p>
+            <p>But the City takes theſe Declarations and Conceſſions of the Bill, to be deſtructive to their Fundamental Rights and Liberties, they claiming to have been a City, and Body Politick, with divers Li<g ref="char:EOLhyphen"/>berties and Cuſtoms, above 2000 years, and to have perpetual Suc<g ref="char:EOLhyphen"/>ceſſion which could not be forfeited, nor deſtroyed, or come under the Judgment of the Judges of the <hi>King's-Bench</hi> for their being a Bo<g ref="char:EOLhyphen"/>dy Politick (if any Citizens had been Offenders, as they were not, in this caſe) nothing leſs than an Act of Parliament being able to deſtroy their Corporation, ſubſiſting by Cuſtoms, Preſcription, and many Acts of Parliament. Therefore they juſtly dread a Declaration to be made by Parliament (as in this Bill) that an Illegal Arbitrary Sentence of the <hi>King's Bench</hi> Judges have diſſolved the Body of the City, and may at any time at the Will of an Arbitrary Prince de<g ref="char:EOLhyphen"/>ſtroy it again, and all its Cuſtoms, Authority and Privileges, to the ruine of their Wives and Childrens Intereſts.</p>
+            <p>The City therefore (as We humbly conceive) juſtly inſiſts, That this Judgment was void in it ſelf, and of no force to deſtroy their Incorporation, and are ready to maintain themſelves to have always been, and to be at this time a Body Politick in due form of Law. And they aver, That the King neither did, nor could by Law take any thing into his hands by force of that Judgment. And they affirm, That the preſent Mayor, and Sheriffs, and Common-Council, are legally poſſeſſed of their reſpective Places; being duly choſen accord<g ref="char:EOLhyphen"/>ing to their Cuſtoms and Charters.</p>
+            <p>They ſay, That the Information in the nature of the <hi>Quo War<g ref="char:EOLhyphen"/>ranto,</hi> upon which the Judgment was founded, was void of it ſelf, in the Conſtruction of Law, and ought to be eſteemed and taken for none, being brought againſt the Body-Politick of the City, for uſurping to be a Body-Politick; which is utterly Repugnant and Contradictory in its ſelf. It cannor be admitted to Complain, and Aver in a Legal Court, That a Body Politick uſurps to be a Body-Politick, there being in that caſe no Defendant to anſwer the Com<g ref="char:EOLhyphen"/>plaint, ſo the very Information is void and null in its ſelf, it is in rea<g ref="char:EOLhyphen"/>lity no Information againſt any Body, and no Judgment could be gi<g ref="char:EOLhyphen"/>ven upon it.</p>
+            <p>The very Judgment alſo is contradictory in its ſelf, being to take into, and continue in the hands of the King, the Franchizes of the Corporation and Body-Politick of the City, mentioned in the Pleadings; when 'tis averr'd in the whole Proceedings towards Judg<g ref="char:EOLhyphen"/>ment, That there was no Corporation, or Body-Politick of the City, but that there was an Uſurpation only of the name of a Body-Po<g ref="char:EOLhyphen"/>litick.</p>
+            <p>The City inſiſts, That many Points of Law do ariſe naturally
+<pb n="3" facs="tcp:152408:2"/>upon the Bill fit for the greateſt Conſideration, and the Advice of all the Learned Judges, the whole Conſtitution of the Govern<g ref="char:EOLhyphen"/>ment of the Kingdom being concerned in them, as well as the City.</p>
+            <p>Theſe following Queſtions in Law ought to be clearly Reſolved, be<g ref="char:EOLhyphen"/>fore it's reaſonable that the Bill ſhould be made a Law.</p>
+            <p n="1">1 <hi>Q.</hi> Whether by force of the Judgment, the Corporation or Body-Politick of the City, was by our Laws actually in King <hi>Charles</hi> the Second, and deſcended to the late King <hi>James,</hi> and remained in him notwithſtanding his Inſtrument and Grant under the great Seal, to reſtore to the City all that was pretended forfeited to him, and that he took from them? If the Corporation was never in King <hi>James,</hi> or was reſtored to the City by him, then this Bill will do great wrong to the City, by depriving their Officers of their Authorities and In<g ref="char:EOLhyphen"/>tereſt, without Cauſe, and changing the Cuſtomary Times of Chu<g ref="char:EOLhyphen"/>ſing Officers, and of their holding their Offices; the Bill appointing them to continue for Sixteen Months, which is a burden intolerable to ſome of the City-Officers.</p>
+            <p n="2">2. <hi>Q.</hi> Whether the Officers of the City, and Members of Parlia<g ref="char:EOLhyphen"/>ment ſerving for the City, being choſen according to the Cities Cu<g ref="char:EOLhyphen"/>ſtoms and Liberties, be Uſurpers of their Offices and Places, as the Bill clearly imports?</p>
+            <p n="3">3. <hi>Q.</hi> Whether by that form of the ſaid Judgment, the Cities Franchiſe of being a Body-Politick, be taken and ſeized into the King's hands, all the Lands and Inheritances of the City, were by Law ſo veſted in the King, that the late King might grant them to whom he pleaſed? This Bill plainly implying, the late King <hi>James</hi>'s Leaſe of all the City Lands to his Confidents in truſt, to have béen good in Law.</p>
+            <p n="4">4. <hi>Q.</hi> Whether the Judges of the King's Bench have a Legal Ju<g ref="char:EOLhyphen"/>riſdiction to Judg, and if they pleaſe, to Deſtroy the being of all the Corporations by Preſcription throughout the Kingdom, of whoſe Bur<g ref="char:EOLhyphen"/>geſſes the Parliament in great part conſiſts? This Bill ſuppoſes and allows the Judges to have had a Juriſdiction, which ſhakes the An<g ref="char:EOLhyphen"/>cient Foundation of the Government, wherein all the Corporations by Preſcription, are taken to have perpetual Succeſſion.</p>
+            <p n="5">5 <hi>Q.</hi> Whether any ſmall pretended, or real Miſdemeanor of ſome Members of Corporations by Preſcription, can be a Forfeiture of all the Liberties, Lands, and Goods of the whole Body-Corporate.</p>
+            <p n="6">6. <hi>Q.</hi> Whether it be agreeable to the Proceedings of Parliament, or conſiſtent with the <hi>Engliſh</hi> Liberty, to determine by this Bill the In<g ref="char:EOLhyphen"/>tereſts claimed by the preſent Magiſtrates and Common-Council of the City in their Offices and Places, without any Offence alledged a<g ref="char:EOLhyphen"/>gainſt them, whilſt they inſiſt to have the common Liberty of all the Subjects of <hi>England,</hi> to maintain their Intereſts and Authorities in due Courſe of Law, againſt any that ſhall legally bring the ſame in<g ref="char:EOLhyphen"/>to queſtion?</p>
+            <p n="7">7. <hi>Q.</hi> Whether in caſe this Bill ſhould paſs into a Law, it doth not amount to a Declaration of the Law in all the Caſes wherein this Bill
+<pb n="4" facs="tcp:152408:3"/>affirms the ſaid Judgment to have had any Force or Effect againſt the Corporation of the City, whereby the Law in <hi>Weſtminſter-Hall</hi> will be changed exceedingly. This Caſe and Judgment being altogether new never heard of, or imagined before the treaſonable Deſigns in the late Reigns, to ſubvert the Ancient Laws and Government of the Kingdom.</p>
+            <p n="8">8. <hi>Q.</hi> Whether the Information in the Nature of a <hi>Quo Warranto, &amp;c.</hi> all the Proceedings on the Kings part againſt the City, and the ſeveral pernicious Opinions of the Judges about the Caſe, and the Plead<g ref="char:EOLhyphen"/>ings therein remaining on Record, and in no ſort condemned; in this Bill the Judgment only being declared illegal without any Cauſe ren<g ref="char:EOLhyphen"/>dred? Whether all thoſe Records will not be taken for ſuch Prece<g ref="char:EOLhyphen"/>dents in future Ages, as may be of dreadful Conſequence to the Ci<g ref="char:EOLhyphen"/>ty, and the whole Kingdom?</p>
+            <p n="9">9. <hi>Q.</hi> Whether upon the whole matter, the ſaid Information and Judgment be not abſolute Nulities in Law, and ought for the Security of the City and Kingdom, to be taken out of all Rolls, Files and Records, that no Memory may be had of ſuch illegal and pernicious Proceed<g ref="char:EOLhyphen"/>ings? That hath been uſually practiced by Parliaments, in Caſes of the like Nature, and of ſuch dangerous Conſequence.</p>
+            <p>The Citizens that moved theſe Queſtions, humbly offered alſo to their Lordſhips, That this Bill makes void the Elections of all the Common-Council-men choſen legally under their Preſent Majeſty's Government by the Inhabitants of the Wards, and yet confirms all the Officers put into Places illegally by the late King <hi>James</hi> his Com<g ref="char:EOLhyphen"/>miſſioners; And alſo all the Livery-men put in arbitrarily by that King's Will, and Directions of the Lord <hi>Jefferies,</hi> Mr. <hi>Graham</hi> and <hi>Burton.</hi>
+            </p>
+            <p>They alſo put their Lordſhips in mind, That this Bill, that in the be<g ref="char:EOLhyphen"/>ginning allows the ſaid Judgment to have diſſolved the Corporation, yet in a Proviſo allows it to be a Corporation, whereof there is a pre<g ref="char:EOLhyphen"/>ſent Mayor and Sheriffs, which ſhall continue untill a new Election be made of ſuch Officers: And if they have not Legal Authority by their Election to act as Mayor and Sheriffs, there is none given them in the Proviſo, by ſaying only <hi>they ſhall continue.</hi> Whereby all the preſent Authorities are in ſuch uncertainty, that it will not be known, if the Bill ſhould paſs, who hath any Authority to cauſe any Elections to be made, and to preſide in them.</p>
+            <p>They offered many other things needful for the City's Settlement, which are wholly omitted in the Bill in reſpect of the Orphans, and the Adminiſtration of Juſtice.</p>
+            <p>But above all other matters, they earneſtly intreated divers Lords, That the Opinion of all the Judges upon the Subſtance of theſe Que<g ref="char:EOLhyphen"/>ſtions foregoing, might be taken in Writing for the ſatisfaction of their Lordſhips, and the Kingdom. The Caſe being altogether new, and numberleſs Conſequences not foreſeen to be drawn from it in the proeeeding of Judgments in Law.</p>
+            <p>Whatſoever ſhall be the iſſue of their Endeavours, they have ac<g ref="char:EOLhyphen"/>quitted themſelves of their Duty, and ſhall humbly acquieſce therein, if the Bill ſhall paſs into a Law.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Published May 24 1690</p>
+         </div>
+      </back>
+   </text>
+</TEI>
